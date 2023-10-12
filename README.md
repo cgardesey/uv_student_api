@@ -11,7 +11,7 @@
 
 ## Introduction
 
-This is a backend for  "School Direct Android App" built using Laravel, a popular PHP framework, to provide robust and efficient API services for the android app [School Direct Student](https://github.com/cgardesey/SchoolDirectStudent).
+This is a backend built using Laravel, a popular PHP framework, to provide robust and efficient API services for [School Direct Student android app](https://github.com/cgardesey/SchoolDirectStudent).
 
 ## Features
 
